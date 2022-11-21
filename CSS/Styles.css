@@ -241,14 +241,16 @@ usen para ver la pagina web*/
     background-image: url(../Img/AsesoriaRRHH.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 40rem;
+    background-size: 37rem;
+    width: 20rem;
     border-radius: 50%;
 }
 .imagen2{
     background-image: url(../Img/RRHH.webp);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 40rem;
+    background-size: 37rem;
+    width: 20rem;
     border-radius: 50%;
     
 }
@@ -256,7 +258,8 @@ usen para ver la pagina web*/
     background-image: url(../Img/SaludOcupac.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 40rem;
+    background-size: 37rem;
+    width: 20rem;
     border-radius: 50%;
 }
 /*formulario*/
