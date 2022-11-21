@@ -235,15 +235,29 @@ usen para ver la pagina web*/
 }
 .vamos{
     width: 30rem;
-    height: 13rem;
+    height: 15rem;
 }
-.imgrrhh{
+.imagen1{
+    background-image: url(../Img/AsesoriaRRHH.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40rem;
+    border-radius: 50%;
+}
+.imagen2{
     background-image: url(../Img/RRHH.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 40rem;
     border-radius: 50%;
     
+}
+.imagen3{
+    background-image: url(../Img/SaludOcupac.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40rem;
+    border-radius: 50%;
 }
 /*formulario*/
 
