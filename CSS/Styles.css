@@ -2,7 +2,7 @@
     --blanco: #ffffff;
     --oscuro: #212121;
     --primario: #ffc107;
-    --secundario: #1b7708;
+    --secundario: #176e06;
     --gris: #757575;
     --grisclaro: #dfe9f3;
 }
@@ -120,7 +120,7 @@ h1,h2,h3{
 
 /*navegacion principal*/
 .nav-bg{
-    background-color: #2da215;
+    background-color: var(--secundario);
 }
 .navegacion-principal{
     display: flex;
