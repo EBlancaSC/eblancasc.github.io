@@ -97,7 +97,7 @@ h1,h2,h3{
 /* Títulos */
 .titulo span{
     font-size: 2rem;
-    
+    display: block;
 }
 
 /** Utilidades**/
